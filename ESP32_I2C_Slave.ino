@@ -77,8 +77,7 @@ void receiveEvent(int howMany) {
 
 
 
-// Below code is only for when we are using another slave(SLAVE2)
-//after compl
+//The Below code is only for when we are using another slave(SLAVE2)
 
 // #include <Wire.h>
 
